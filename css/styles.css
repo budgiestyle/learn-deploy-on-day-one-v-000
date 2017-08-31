@@ -140,6 +140,12 @@ a:visited {
     background-image: url("http://imgur.com/zLQFVKP.jpg");
 }
 
+#sophie-chang-cover {
+  background-image: url("http://i.imgur.com/a50L6my.jpg?1");
+}
+#sophie-chang-card {
+  background-image: url("http://i.imgur.com/aq0V5cZ.jpg")
+}
 
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
@@ -486,7 +492,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5022,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
